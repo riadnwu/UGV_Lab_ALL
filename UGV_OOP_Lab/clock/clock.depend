@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1646312047 source:d:\education\coding\c-c++\ugv_oop_lab\clock\main.cpp
+	<iostream>
+	<fstream>
+

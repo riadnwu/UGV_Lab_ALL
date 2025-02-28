@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1581739749 source:d:\education\coding\c-c++\ugv_oop_lab\file_input_output\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+

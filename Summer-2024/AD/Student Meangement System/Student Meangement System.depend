@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1725943663 source:d:\coding\c-c++\ugv\summer-2024\ad\student meangement system\main.cpp
+	<iostream>
+	<fstream>
+

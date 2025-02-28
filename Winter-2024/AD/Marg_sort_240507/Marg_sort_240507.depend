@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1715390499 source:g:\coding\ugv\winter-2024\ad\marg_sort_240507\main.cpp
+	<iostream>
+	<queue>
+

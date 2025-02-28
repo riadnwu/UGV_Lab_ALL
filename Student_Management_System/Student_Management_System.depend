@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1681172108 source:g:\coding\ugv\winter-2023\pbl\student_management_system\main.cpp
+	<iostream>
+	<map>
+	<fstream>
+

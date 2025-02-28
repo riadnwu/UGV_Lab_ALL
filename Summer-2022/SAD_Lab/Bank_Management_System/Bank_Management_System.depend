@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1668095055 source:g:\kuet\coding\ugv\summer-2022\sad_lab\bank_management_system\main.cpp
+	<iostream>
+	<map>
+	<fstream>
+

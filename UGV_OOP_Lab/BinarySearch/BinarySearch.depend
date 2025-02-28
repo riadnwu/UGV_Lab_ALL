@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1654268533 source:d:\education\coding\c-c++\ugv_oop_lab\binarysearch\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+	<cmath>
+

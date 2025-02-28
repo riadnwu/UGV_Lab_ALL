@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1691286873 source:g:\coding\ugv\summer-2023\ooad\encap\main.cpp
+	<iostream>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1696150881 source:g:\coding\ugv\summer-2023\oop\stu\main.cpp
+	<iostream>
+	<fstream>
+	<map>
+
