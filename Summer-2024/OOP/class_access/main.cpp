@@ -1,24 +1,16 @@
 #include <iostream>
 using namespace std;
 
-class old
-{
-    public:
-        virtual void dis()=0;
-};
-
-class new1:public old
-{
-    public:
-        void dis()  override
-        {
-            cout<<"From Child!!"<<endl;
-        }
-};
-
 int main()
 {
-    old *oj=new new1();
-    oj->dis();
-    return 0;
+    int a,b,c;
+    cin>>a>>b>>c;
+    cout<<a<<"- "<<b<<"- "<<c<<endl;
+    string a1;
+    cin.ignore();
+    getline(cin,a1);
+    cout<<a1;
+   return 0;
 }
+
+
